@@ -30,3 +30,10 @@ The directory structure required to run the notebooks locally is as follows:
     * mw277wc3858 files
 
 The `shapefile` folder and `notebooks` folder are present in the github repository. The `cases` and `keys` folders need to be downloaded from DDL.
+
+## Resources
+
+- [Plotting Maps](https://www.kaggle.com/code/nehaprabhavalkar/how-to-plot-map-of-india-using-python)
+- [ML pipeline and validation](https://towardsdatascience.com/beginners-guide-to-xgboost-for-classification-problems-50f75aac5390)
+- Freecodecamp Data Analysis
+- Stackexchange
